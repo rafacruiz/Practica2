@@ -31,8 +31,11 @@ Cuando termina el paso anterior, instalamos los paquete que necesitamos para eje
 Copiamos en el directorio de la jaula los archivos de nuestro formulario para poder ser ejecutado.
 
 	"sudo cp practica3.py formulario3.py /home/jaulas/debian/home"
+	
+![Python](https://dl.dropboxusercontent.com/s/lmxr78i8g7i3uw6/prac3.png)
 
 Y en el ultimo paso ejecutamos el formulario.
 
 	"python practica3.py"
 
+![Formulario](https://dl.dropboxusercontent.com/s/hbr2un5r37lyj32/formu.png)
