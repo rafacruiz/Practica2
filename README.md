@@ -34,7 +34,7 @@ Copiamos en el directorio de la jaula los archivos de nuestro formulario para po
 	
 ![Python](https://dl.dropboxusercontent.com/s/lmxr78i8g7i3uw6/prac3.png)
 
-Y en el ultimo paso ejecutamos el formulario.
+Y en el ultimo paso ejecutamos el formulario. Para ello ejecutamos el archivo practica3.py el cual contiene la clase que llama al formulario.
 
 	"python practica3.py"
 
