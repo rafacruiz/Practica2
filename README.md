@@ -24,7 +24,7 @@ Una vez que estamos dentro configuramos nuestra distribución.
 	Instalamos un paquete de español "apt-get install language-pack-es"
 	Y actualizamos "apt-get update"
 
-Cuando termina el paso anterior, instalamos los paquete que necesitamos para ejecutar nuestro formulario.
+Cuando termina el paso anterior, instalamos el paquete que necesitamos para ejecutar nuestro formulario. Usamos el framework de webpy para realizar el formulario.
 
 	"sudo apt-get install python-webpy"
 
