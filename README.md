@@ -1,4 +1,4 @@
-#Práctica 2: Aislamiento de una aplicación web usando
+#Práctica 2: Aislamiento de una aplicación web usando jaula chroot
 
 ##Descripción
 Crear una mini-aplicación web (un hola mundo o un simple formulario) y aislarlo en una jaula chroot.
